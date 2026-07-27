@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+
+# BOOTHへアップロードする成果物。build.py で作り直せるため追跡しない
+/Release/

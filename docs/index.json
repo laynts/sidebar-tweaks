@@ -1,0 +1,30 @@
+{
+  "version": "v1",
+  "blocklist": [],
+  "data": [
+    {
+      "schema_version": "1.0.0",
+      "id": "sidebar_tweaks",
+      "name": "Sidebar Tweaks",
+      "tagline": "\u30b5\u30a4\u30c9\u30d0\u30fc(N\u30d1\u30cd\u30eb)\u306e\u30bf\u30d6\u306e\u4e26\u3073\u9806\u3092\u5165\u308c\u66ff\u3048\u308b",
+      "version": "1.0.0",
+      "type": "add-on",
+      "maintainer": "\u308c\u3044\u3093\u3064",
+      "license": [
+        "SPDX:GPL-3.0-or-later"
+      ],
+      "blender_version_min": "4.2.0",
+      "website": "https://github.com/laynts/sidebar-tweaks",
+      "copyright": [
+        "2026 \u308c\u3044\u3093\u3064"
+      ],
+      "tags": [
+        "User Interface",
+        "3D View"
+      ],
+      "archive_url": "./SidebarTweaks_v1.0.0.zip",
+      "archive_size": 26896,
+      "archive_hash": "sha256:aa733337246cfad2dccafac6eb501ea5704e6035c74a0e050452eaeb0eb80cbe"
+    }
+  ]
+}

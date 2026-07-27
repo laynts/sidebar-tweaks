@@ -1,0 +1,21 @@
+schema_version = "1.0.0"
+
+id = "sidebar_tweaks"
+version = "1.0.0"
+name = "Sidebar Tweaks"
+tagline = "サイドバー(Nパネル)のタブの並び順を入れ替える"
+maintainer = "れいんつ"
+
+type = "add-on"
+tags = ["User Interface", "3D View"]
+
+blender_version_min = "4.2.0"
+
+license = [
+  "SPDX:GPL-3.0-or-later",
+]
+copyright = [
+  "2026 れいんつ",
+]
+
+website = "https://github.com/laynts/sidebar-tweaks"
