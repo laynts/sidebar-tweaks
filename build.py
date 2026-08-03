@@ -27,6 +27,7 @@ PRODUCT = "SidebarTweaks"
 
 BLENDER_CANDIDATES = (
     os.environ.get("BLENDER"),
+    r"C:\Program Files\Blender Foundation\Blender 5.2\blender.exe",
     r"C:\Program Files\Blender Foundation\Blender 5.1\blender.exe",
     r"C:\Program Files\Blender Foundation\Blender 4.5\blender.exe",
     r"C:\Program Files\Blender Foundation\Blender 4.2\blender.exe",

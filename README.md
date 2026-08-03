@@ -16,7 +16,7 @@ Requires Blender 4.2 or later. Licensed under GPL-3.0-or-later.
 ## 動作環境
 
 Blender 4.2 以降が必要です。
-Blender 5.1.2 (Windows) で動作を確認しています。
+Blender 5.2.0 (Windows) で動作を確認しています。
 
 ## インストール
 
