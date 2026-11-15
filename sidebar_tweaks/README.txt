@@ -5,7 +5,7 @@ Sidebar Tweaks
 
 【動作環境】
 Blender 4.2 以降
-動作確認: Blender 5.2.0 (Windows)
+動作確認: Blender 5.2.1 (Windows)
 
 【インストール】
 1. このzipファイルをBlenderのウィンドウへドラッグ＆ドロップします（展開は不要です）
